@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using PracticaDomain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -58,52 +59,5 @@ namespace PracticaParcial1
         }
     }
 
-    internal class CuentaAhorro
-    {
-        protected List<Movimiento> _movimientos;
-        public string Numero { get; private set; }
-        public string Nombre { get; private set; }
-        public string Ciudad { get; private set; }
-        public decimal Saldo { get; protected set; }
-
-        public CuentaAhorro(string numero, string nombre, string ciudad)
-        {
-            _movimientos = new List<Movimiento>();
-            Numero = numero;
-            Nombre = nombre;
-            Ciudad = ciudad;
-        }
-        public IReadOnlyCollection<Movimiento> Movimientos => _movimientos.AsReadOnly();
-
-        internal string Consignar(decimal valorConsignacion, DateTime fecha, string ciudad)
-        {
-            if (valorConsignacion < 0 && Ciudad.Equals(ciudad))
-            {
-                return "El valor a consignar es incorrecto";
-            }
-            if (valorConsignacion >= 50000 && !_movimientos.Any() && Ciudad.Equals(ciudad))
-            {
-                Saldo += valorConsignacion;
-                _movimientos.Add(new Movimiento(cuentaAhorro: this, fecha: fecha, tipo: "CONSIGNACION", valor: valorConsignacion));
-                return $"Su Nuevo Saldo es de {Saldo} pesos m/c";
-            }
-            throw new NotImplementedException();
-        }
-    }
-
-    internal class Movimiento
-    {
-        public Movimiento(CuentaAhorro cuentaAhorro, DateTime fecha, string tipo, decimal valor)
-        {
-            CuentaAhorro = cuentaAhorro;
-            Fecha = fecha;
-            Tipo = tipo;
-            Valor = valor;
-        }
-
-        public CuentaAhorro CuentaAhorro { get; private set; }
-        public DateTime Fecha { get; private set; }
-        public string Tipo { get; private set; }
-        public decimal Valor { get; private set; }
-    }
+    
 }

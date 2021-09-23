@@ -1,0 +1,16 @@
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\bin\Debug\net5.0\ParcialDomain.deps.json
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\bin\Debug\net5.0\ParcialDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\bin\Debug\net5.0\ref\ParcialDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\bin\Debug\net5.0\ParcialDomain.pdb
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.csproj.AssemblyReference.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.AssemblyInfoInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.AssemblyInfo.cs
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.csproj.CoreCompileInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\staticwebassets\ParcialDomain.StaticWebAssets.Manifest.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\staticwebassets\ParcialDomain.StaticWebAssets.xml
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\scopedcss\bundle\ParcialDomain.styles.css
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.RazorTargetAssemblyInfo.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ref\ParcialDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\ParcialDomain\obj\Debug\net5.0\ParcialDomain.pdb

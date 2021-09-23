@@ -1,0 +1,12 @@
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\bin\Debug\net5.0\PracticaDomain.deps.json
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\bin\Debug\net5.0\PracticaDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\bin\Debug\net5.0\ref\PracticaDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\bin\Debug\net5.0\PracticaDomain.pdb
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.csproj.AssemblyReference.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.AssemblyInfoInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.AssemblyInfo.cs
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.csproj.CoreCompileInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\ref\PracticaDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaDomain\obj\Debug\net5.0\PracticaDomain.pdb

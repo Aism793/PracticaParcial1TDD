@@ -99,3 +99,6 @@ D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Pro
 D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\obj\Debug\net5.0\ref\PracticaParcial1.dll
 D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\obj\Debug\net5.0\PracticaParcial1.pdb
 D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\obj\Debug\net5.0\PracticaParcial1.genruntimeconfig.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\bin\Debug\net5.0\PracticaDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\PracticaParcial1\PracticaParcial1\bin\Debug\net5.0\PracticaDomain.pdb
